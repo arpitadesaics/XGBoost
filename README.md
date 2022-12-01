@@ -1,5 +1,8 @@
 # XGBoost
 
+# XGBoost classification algorithm on the loan data set and compare its performance against SVM and Logistic Regression by suitably splitting the data into train and      test sets.   
+# XGBoost regression algorithm on the Boston housing data set and compare its performance against Linear regression.
+
 *XGBoost is an ensemble learning method. Sometimes, it may not be sufficient to rely upon the results of just one machine learning model. 
 Ensemble learning offers a systematic solution to combine the predictive power of multiple learners. The resultant is a single model which gives the 
 aggregated output from several models.
